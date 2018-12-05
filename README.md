@@ -1,4 +1,3 @@
-# fb_codepath_cybersecurity_week_9
 # Week 9 Project: Honeypots
 
 Total time spent: **10** hours & **48** hours for Honeypot run time
