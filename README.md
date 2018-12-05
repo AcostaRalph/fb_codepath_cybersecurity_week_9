@@ -25,9 +25,9 @@ The raw data can be found in the `session.json` file.
 
 ## Project Screenshots
 
-<img src="https://github.com/AcostaRalph/fb_codepath_cybersecurity_week_7/blob/master/Sensor_Attacks.png" width="800">
+<img src="https://github.com/AcostaRalph/fb_codepath_cybersecurity_week_9/blob/master/Sensor_Attacks.png" width="800">
 
-<img src="https://github.com/AcostaRalph/fb_codepath_cybersecurity_week_7/blob/master/Suricata_Payloads.png" width="800">
+<img src="https://github.com/AcostaRalph/fb_codepath_cybersecurity_week_9/blob/master/Suricata_Payloads.png" width="800">
 
 ## Other Notes/Questions
 
