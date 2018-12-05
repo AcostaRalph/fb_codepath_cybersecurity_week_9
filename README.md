@@ -23,11 +23,19 @@ The three honeypots were deployed and kept open for a 48-hour period. Honeypot 1
 
 The raw data can be found in the `session.json` file.
 
-## Project Screenshots
+## Project Screenshots & Gif
 
+**Sensor Attacks**
 <img src="https://github.com/AcostaRalph/fb_codepath_cybersecurity_week_9/blob/master/Sensor_Attacks.png" width="800">
 
+**Suricata Payloads**
 <img src="https://github.com/AcostaRalph/fb_codepath_cybersecurity_week_9/blob/master/Suricata_Payloads.png" width="800">
+
+**Honeypot Attack Stats**
+<img src="https://github.com/AcostaRalph/fb_codepath_cybersecurity_week_9/blob/master/Honeypot_Stats.png" width="800">
+
+**Admin Gif**
+<img src="https://github.com/AcostaRalph/fb_codepath_cybersecurity_week_9/blob/master/Honeypot.gif" width="800">
 
 ## Other Notes/Questions
 
