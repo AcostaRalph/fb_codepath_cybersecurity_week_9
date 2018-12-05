@@ -1,7 +1,7 @@
 # fb_codepath_cybersecurity_week_9
 # Week 9 Project: Honeypots
 
-Total time spent: **10** hours
+Total time spent: **10** hours & **48** hours for Honeypot run time
 
 For this project, we deployed a couple VM's ucing Google Cloud Platform(GCP). The Honeypot framework that was used was [Modern Honey Network](https://threatstream.github.io/mhn/). Two instances were created, one to hold the honeypot and the other to hold the administrative controls. The instances were created with Ubuntu 14.04 Trusty.
 
